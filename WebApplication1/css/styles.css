@@ -7766,7 +7766,7 @@ textarea.form-control-lg {
 }
 
 .text-white2 {
-    --bs-text-opacity: 1;
+    /*--bs-text-opacity: 1;*/
     color: rgba(var(--bs-secondary-rgb), var(--bs-text-opacity)) !important;
 }
 
